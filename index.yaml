@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  harsha:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-10-08T04:32:18.728420616Z"
+    description: A Helm chart for Kubernetes
+    digest: dd9434eff06a0f11c98efdec8313f51cdc14d5db350d50df5dbb7cc65730fc23
+    name: harsha
+    type: application
+    urls:
+    - harsha-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-08T04:32:18.727724635Z"
